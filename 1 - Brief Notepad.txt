@@ -1,0 +1,16 @@
+
+"CineMajesty"
+=============
+
+Website pemesanan tiket bioskop, inspirasi dari XXI, 21, CGV
+dibangun dengan: React Framework, dengan Backend C#
+
+Oleh Kelompok 8: \\
+Andreas Wijaya 	- 2602181055
+Aurelius Alvin 	- 2602113281
+Bun Jak Sin 	- 2602071852
+Davenn 		- 2602107814
+Wilmer Kwodeevan - 2602056662
+
+
+NOTE: penambahan angka di depan nama file seperti "1 - Brief Notepad", sengaja kami lakukan untuk mengurutkan flow file mana yang dibuka agar rapi
