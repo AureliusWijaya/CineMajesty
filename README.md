@@ -1,3 +1,16 @@
+"CineMajesty"
+=============
+
+Website pemesanan tiket bioskop, inspirasi dari XXI, 21, CGV
+dibangun dengan: React Framework, dengan Backend C#
+
+Oleh Kelompok 8: \\
+Andreas Wijaya 	- 2602181055
+Aurelius Alvin 	- 2602113281
+Bun Jak Sin 	- 2602071852
+Davenn 		- 2602107814
+Wilmer Kwodeevan - 2602056662
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
